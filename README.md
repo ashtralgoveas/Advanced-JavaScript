@@ -1,3 +1,3 @@
 # Advanced-JavaScript
 ## Exercises on Advanced JavaScript Concepts.
-### Youtube Reference Link : https://youtube.com/playlist?list=pl0zuz27sz-6n3bg4yzhkrcl3zmdcltugd
+### Youtube Reference Link : https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd
